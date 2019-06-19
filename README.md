@@ -14,7 +14,10 @@ _ Buy until the jackpot is obtained. Print the number of times bought + the deta
 _ Run the buying process 5 times and calculate the average number of times one needs to buy to become a winner.
 
 
+
+
 Design Patterns involved:
+
 _ Singleton
 
 _ Memento
