@@ -21,6 +21,6 @@ _ Memento
 
 _ Decorator
 
-_ 
+_ Observer
 ____________________________________________________________________________________________________________________
 This assignment is from Programming 1 course.
