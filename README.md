@@ -22,5 +22,5 @@ _ Memento
 _ Decorator
 
 _ 
-
-(this assignment is from Programming 1 course)
+____________________________________________________________________________________________________________________
+This assignment is from Programming 1 course.
