@@ -1,5 +1,4 @@
-# VietlottSimulation
-A Java console app that can:
+## Features
 
 _ Add/edit/delete/view a list of customer.
 
@@ -13,7 +12,7 @@ _ Buy until the jackpot is obtained. Print the number of times bought + the deta
 
 _ Run the buying process 5 times and calculate the average number of times one needs to buy to become a winner.
 ____________________________________________________________________________________________________________________
-Design Patterns involved:
+## Design Patterns
 
 _ Singleton
 
@@ -23,4 +22,6 @@ _ Decorator
 
 _ Observer
 ____________________________________________________________________________________________________________________
-This assignment is from Programming 1 course.
+## Assignment from
+
+Programming 1 course.
